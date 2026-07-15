@@ -124,7 +124,7 @@ Your username alone is **not** enough to read your full memory. The private link
 
 ## Update from anywhere
 
-<p align="center">
+<p align="left">
   <img src="./assets/providers/telegram.svg" alt="Telegram" width="28" />
   &nbsp; <strong>Capture thoughts while life is happening</strong>
 </p>
