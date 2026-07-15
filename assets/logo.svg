@@ -1,4 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 160" fill="none" role="img" aria-label="AIMemLink">
+  <rect width="640" height="160" rx="20" fill="#ffffff" stroke="#e4e4e7" stroke-width="1"/>
   <g transform="translate(12 12)">
     <rect width="136" height="136" rx="30" fill="#18181b"/>
     <circle cx="68" cy="68" r="46" stroke="#3f3f46" stroke-width="2" opacity="0.55"/>
