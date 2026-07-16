@@ -218,8 +218,6 @@ Free to use. Sign up with Google or email magic link. Write your memory in minut
 <p align="center">
   <a href="https://x.com/aimemlink"><img src="./assets/x.svg" alt="X" width="24" /></a>
   &nbsp;&nbsp;
-  <a href="https://www.reddit.com/r/aimemlink/"><img src="./assets/reddit.svg" alt="Reddit" width="24" /></a>
-  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/company/aimemlink"><img src="./assets/linkedin.svg" alt="LinkedIn" width="24" /></a>
   &nbsp;&nbsp;
   <a href="https://www.instagram.com/aimemlink"><img src="./assets/instagram.svg" alt="Instagram" width="24" /></a>
